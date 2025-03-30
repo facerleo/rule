@@ -2,7 +2,7 @@
 # 机场订阅
 proxy-providers:
   Airport1:
-    url: "https://url.v1.mk/sub?target=clash&url=vless%3A%2F%2F7ef6b01e-c402-4b35-951e-39bac3793f54%401.1.1.1%3A25219%3Fencryption%3Dnone%26flow%3Dxtls-rprx-vision%26security%3Dreality%26sni%3Dwww.lovelive-anime.jp%26fp%3Dios%26pbk%3DWuz09gS1NRhQXvnQ4jZosyWA23RXBoD2AGnkESrfZkY%26sid%3D0dbe003f9d06d7%26spx%3D%252F%26type%3Dtcp%26headerType%3Dnone%23VMISS-%25E4%25B8%259C%25E4%25BA%25AC%7Cvless%3A%2F%2Fd1dca1ee-7a61-48ea-a460-b380bc05ffe4%401.1.1.1%3A53392%3Fencryption%3Dnone%26flow%3Dxtls-rprx-vision-udp443%26security%3Dreality%26sni%3Dtesla.com%26fp%3Dfirefox%26pbk%3DzQKWcm1DtYdhmIqPLRw53bT1DFn6bqrlj2rjPi0jNSQ%26sid%3Df02d9e59%26spx%3D%252F%26type%3Dtcp%26headerType%3Dnone%23TechnoVM%7C%7C&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_Full_NoAuto.ini&emoji=true&list=false&xudp=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&new_name=true"
+    url: "e4%401.1.1.1%3A53392%3Fencryption%3Dnonme=true"
     type: http
     interval: 86400
     health-check:
